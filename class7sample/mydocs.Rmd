@@ -1,13 +1,8 @@
 ---
-title: "sample1_keeeun"
-author: "박찬엽"
-date: "2017년 5월 25일"
+title: "한글제목"
 output: 
-  html_document:
-    toc: true
-    toc_float: true
-    toc_depth: 2
-    number_sections: true
+  word_document:
+    reference_docx: style.docx
 ---
 
 ```{r setup, include=FALSE}
